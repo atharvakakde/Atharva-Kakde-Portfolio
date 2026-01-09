@@ -93,11 +93,9 @@ git clone https://github.com/atharvakakde/AtharvaKakde-Portfolio.git
 cd AtharvaKakde-Portfolio
 npm install
 npm start
-
+```
 ---
-
 📬 Contact Me
-
 📧 Email: atharvakakde40@gmail.com
 
 📍 Location: Aurangabad, Maharashtra, India
