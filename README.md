@@ -1,73 +1,103 @@
-# Welcome to your Lovable project
+# 🌐 Atharva Kakde – Developer Portfolio
 
-## Project info
+<p align="center">
+  <img src="https://img.shields.io/badge/React-18-blue?logo=react" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/Vercel-Deployed-black?logo=vercel" />
+  <img src="https://img.shields.io/github/stars/atharvakakde/AtharvaKakde-Portfolio?style=social" />
+  <img src="https://img.shields.io/github/forks/atharvakakde/AtharvaKakde-Portfolio?style=social" />
+</p>
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+🚀 A modern, responsive personal portfolio website showcasing my skills, projects, internships, and certifications.
 
-## How can I edit this code?
+🔗 **Live Website:**  
+👉 https://atharva-kakde-portfolio.vercel.app/
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## 👋 About Me
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+Hi, I’m **Atharva Kakde**, a **B.Tech Computer Science & Engineering** student with a minor in **Artificial Intelligence & Machine Learning**.
 
-Changes made via Lovable will be committed automatically to this repo.
+- 💻 Full-Stack Developer  
+- 🎨 UI/UX Designer  
+- 🤖 AI/ML Enthusiast  
+- 🌱 Actively seeking **internship opportunities**
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🖼️ Screenshots
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### 🏠 Hero Section
+![Hero Section](./Screenshots/hero.png)
 
-Follow these steps:
+### 👨‍💻 About Me
+![About Me](./Screenshots/about.png)
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### 🛠️ Skills
+![Skills](./Screenshots/skills.png)
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### 🚀 Projects
+![Projects](./Screenshots/projects.png)
 
-# Step 3: Install the necessary dependencies.
-npm i
+### 🎓 Internships & Certificates
+![Internships](./Screenshots/internships.png)
+![Certificates](./Screenshots/certificates.png)
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+### 📬 Contact
+![Contact](./Screenshots/contact.png)
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## ✨ Features
 
-**Use GitHub Codespaces**
+- 🎯 Clean & modern UI design
+- 📱 Fully responsive across devices
+- 🧠 Skills displayed with progress indicators
+- 💼 Internship & training showcase
+- 🏆 Certificates section
+- 📬 Contact form for collaboration
+- ⚡ Deployed on Vercel for fast performance
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
+## 🛠️ Tech Stack
 
-This project is built with:
-
-- Vite
-- TypeScript
+### Frontend
 - React
-- shadcn-ui
+- JavaScript
+- HTML5
+- CSS3
 - Tailwind CSS
 
-## How can I deploy this project?
+### Backend & Database
+- Node.js
+- Express.js
+- MySQL / SQL
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+### Tools & Platforms
+- Git & GitHub
+- Figma (UI/UX Design)
+- Docker
+- Vercel
 
-## Can I connect a custom domain to my Lovable project?
+---
 
-Yes, you can!
+## 📂 Featured Projects
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+- 🎮 **2 Player Games Hub** – Python Tkinter desktop application  
+- 🌍 **Air Quality Trends Analysis** – React, FastAPI, MySQL  
+- 🌱 **STOP2GO AgriChain** – Blockchain-based supply chain system  
+- 📦 **Inventory Management System** – JavaFX & JDBC  
+- ♟️ **Python Chess Game** – Desktop chess application  
+- 🍽️ **Restaurant Management System** – C++ console-based system  
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+---
+
+## 🚀 Getting Started (Local Setup)
+
+```bash
+git clone https://github.com/atharvakakde/AtharvaKakde-Portfolio.git
+cd AtharvaKakde-Portfolio
+npm install
+npm start
