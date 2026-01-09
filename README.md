@@ -1,13 +1,5 @@
 # 🌐 Atharva Kakde – Developer Portfolio
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-18-blue?logo=react" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwindcss" />
-  <img src="https://img.shields.io/badge/Vercel-Deployed-black?logo=vercel" />
-  <img src="https://img.shields.io/github/stars/atharvakakde/AtharvaKakde-Portfolio?style=social" />
-  <img src="https://img.shields.io/github/forks/atharvakakde/AtharvaKakde-Portfolio?style=social" />
-</p>
-
 🚀 A modern, responsive personal portfolio website showcasing my skills, projects, internships, and certifications.
 
 🔗 **Live Website:**  
@@ -101,3 +93,11 @@ git clone https://github.com/atharvakakde/AtharvaKakde-Portfolio.git
 cd AtharvaKakde-Portfolio
 npm install
 npm start
+
+📬 Contact Me
+
+📧 Email: atharvakakde40@gmail.com
+
+📍 Location: Aurangabad, Maharashtra, India
+
+🌐 Portfolio: https://atharva-kakde-portfolio.vercel.app/
